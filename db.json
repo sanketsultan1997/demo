@@ -1,14 +1,10 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+   {
+          "name":"Dark-Chocolate",
+          "imageurl":"https://i1.wp.com/www.eatthis.com/wp-content/uploads/2017/10/dark-chocolate-bar-squares.jpg?resize=800%2C450&ssl=1",
+          "price":50
+        },
+        {
+          "name":"cadbury-chocolate",
+          "imageurl":"https://img.ti-media.net/wp/uploads/sites/46/2019/07/New-Project-2019-07-10T102653.785-920x518.jpg",
+          "price":50
+        }
