@@ -1,14 +1,86 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+        {
+          "id":1,
+          "name":"Bread",
+          "imageurl":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/homemade-bread-horizontal-1547759080.jpg?crop=0.671xw:1.00xh;0.0801xw,0&resize=980:*",
+          "price":30,
+          "category":"Bread"
+        },
+         {
+           "id":1,
+          "name":"Brown-Bread",
+          "imageurl":"https://dailyvery.in/welcome/wp-content/uploads/2019/11/brown-bread-600x625.jpg",
+          "price":35,
+          "category":"Bread"
+        },
+  
+        {
+          "id":1,
+          "name":"Dark-Chocolate",
+          "imageurl":"https://i1.wp.com/www.eatthis.com/wp-content/uploads/2017/10/dark-chocolate-bar-squares.jpg?resize=800%2C450&ssl=1",
+          "price":50,
+          "category":"Chocolate"
+        },
+        {
+          "name":"cadbury-chocolate",
+          "imageurl":"https://img.ti-media.net/wp/uploads/sites/46/2019/07/New-Project-2019-07-10T102653.785-920x518.jpg",
+          "price":50,
+          "category":"Chocolate"
+        },
+    
+        {
+          "name":"milk",
+          "imageurl":"https://socialimages.sakalmediagroup.com/sakaltimes-prod/s3fs-public/styles/generic_md_75/public/news-story/cover-images/3milk_103.jpg",
+          "price":25,
+          "category":"Dairy"
+        },
+        {
+          "name":"yogurt",
+          "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmAbHKnrD2O5gqMk_vHoKaf7vJPQyKaDoNFg&usqp=CAU",
+          "price":30,
+          "category":"Dairy"
+        },
+        {
+          "name":"cheese",
+          "imageurl":"https://cdn.shopify.com/s/files/1/2836/2982/products/pic10_large.jpg?v=1529434190",
+          "price":35,
+          "category":"Dairy"
+        },
+    
+        {
+          "name":"banana",
+          "imageurl":"https://cdn.mos.cms.futurecdn.net/42E9as7NaTaAi4A6JcuFwG-1200-80.jpg",
+          "price":45,
+          "category":"Fruits"
+        },
+        {
+          "name":"apple",
+          "imageurl":"https://www.newfoodmagazine.com/wp-content/uploads/apples.jpg",
+          "price":70,
+          "category":"Fruits"
+        },
+        {
+          "name":"orange",
+          "imageurl":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Orange-Whole-%26-Split.jpg/330px-Orange-Whole-%26-Split.jpg",
+          "price":60,
+          "category":"Fruits"
+        },
+        {
+          "name":"tomatoes",
+          "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmdvgW9-SsgX9tTKgAwhSth4iYP_6M-RvzKQ&usqp=CAU",
+          "price":80,
+          "category":"Vegitables"
+        },
+        {
+          "name":"potato",
+          "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6csRU2iJ46YpSVqnZsaskw3eH2Cjb8nZJKw&usqp=CAU",
+          "price":40,
+          "category":"Vegitables"
+        },
+        {
+          "name":"cabbage",
+          "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYB69ipIBlK8oY0HSgtJ-dfwM6LIjEe0m1cQ&usqp=CAU",
+          "price":30,
+          "category":"Vegitables"
+        }
+    ]
